@@ -1,0 +1,27 @@
+#coreConcepts {
+  padding: 2rem;
+  border-radius: 6px;
+  background-color: #140524;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+#tabButtons {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#coreConcepts ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.img {
+  height: 100px;
+  width: 100px;
+}

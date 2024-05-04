@@ -1,0 +1,9 @@
+li {
+  margin: 12px;
+}
+
+.activateButton {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 1rem;
+}
